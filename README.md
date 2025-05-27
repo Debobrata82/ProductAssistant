@@ -1,6 +1,6 @@
 # 🛍️ Product Assistant – AI-Powered
 
-**Product Assistant** is an AI application that delivers concise product summaries and real-time estimated prices in USD using cutting-edge Large Language Models (LLMs). Built with **LangChain**,  and **OpenAI/Groq**, it's perfect for quick product research and market value estimation.
+**Product Assistant** is an AI application that delivers concise product summaries and real-time estimated prices in USD using cutting-edge Large Language Models (LLMs). Built with **LangChain** framework, **LangSmith** for Tracing and Observability and **OpenAI/Groq** LLM model, it's perfect for quick product query and market price estimation.
 
 ---
 
