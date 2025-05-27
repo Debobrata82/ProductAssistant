@@ -1,6 +1,6 @@
 # 🛍️ Product Assistant – AI-Powered
 
-**Product Assitant** is a lightweight AI application that delivers concise product summaries and real-time estimated prices in USD using cutting-edge Large Language Models (LLMs). Built with **LangChain**,  and **OpenAI/Groq**, it's perfect for quick product research and market value estimation.
+**Product Assistant** is an AI application that delivers concise product summaries and real-time estimated prices in USD using cutting-edge Large Language Models (LLMs). Built with **LangChain**,  and **OpenAI/Groq**, it's perfect for quick product research and market value estimation.
 
 ---
 
@@ -10,7 +10,7 @@
 - 🧠 Utilizes GroQ LLMs model - "gemma2-9b-it"  for intelligent responses
 - 📦 Returns structured JSON with:
   - **Product Name**
-  - **Product Description** (≤150 words)
+  - **Product Description**
   - **Product Price** in **USD**
 - 🔐 Supports multiple API providers via `.env` config
 
